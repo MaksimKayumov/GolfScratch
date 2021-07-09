@@ -9,7 +9,7 @@ Here Is The Link:[link to Interpreter In Scratch!](https://scratch.mit.edu/proje
 
 ```Print``` - Print From Top of The Stack
 
-``INP``` Get Input And Push It To The Stack
+```INP``` Get Input And Push It To The Stack
 ## Loops And If 
 ```GOTO [x]``` - Goto Command [x]
 
