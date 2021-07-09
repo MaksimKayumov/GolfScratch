@@ -10,7 +10,7 @@ Here Is The Link:[link to Interpreter In Scratch!](https://scratch.mit.edu/proje
 ```Print``` - Print From Top of The Stack
 
 ```INP``` Get Input And Push It To The Stack
-## Loops And If 
+## Loops And If statements
 ```GOTO [x]``` - Goto Command [x]
 
 ```IF [x] [y] [z]``` - If Top Of The Stack == [x] Goto [y] Else Goto [z]
